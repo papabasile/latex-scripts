@@ -3,7 +3,7 @@ Ioannis Papavasileiou
 
 This script will take a bibliography file, bibliography.bib and a source tex file, paper.tex 
 and it will create a new bibliography file, notReferenced.bib, with every entry in bibliography.bib
-that has not been referenced in the tex source, paper.tex
+that has not been cited in the tex source, paper.tex
 
 Usage: python findNotReferenced <bibliography.bib> <paper.tex> <notReferenced.bib>')
 '''
